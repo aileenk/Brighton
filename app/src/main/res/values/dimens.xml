@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item_height">220dp</dimen>
+
+    <!-- Value-based dp -->
+    <dimen name="value0dp">0dp</dimen>
+    <dimen name="value16dp">16dp</dimen>
+</resources>

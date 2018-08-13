@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/ListItemStyle" >
+
+    <ImageView
+        android:id="@+id/image"
+        style="@style/ImageViewStyle"/>
+
+    <LinearLayout
+        android:id="@+id/text_container"
+        style="@style/TextContainerStyle">
+
+        <TextView
+            android:id="@+id/location_name"
+            style="@style/LocationNameStyle" />
+
+        <TextView
+            android:id="@+id/address_line_one"
+            style="@style/AddressStyle" />
+
+        <TextView
+            android:id="@+id/address_line_two"
+            style="@style/AddressStyle" />
+
+        <TextView
+            android:id="@+id/phone_number"
+            style="@style/PhoneAndWebStyle"
+            android:autoLink="phone" />
+
+        <TextView
+            android:id="@+id/website"
+            style="@style/PhoneAndWebStyle"
+            android:autoLink="web" />
+
+    </LinearLayout>
+
+</LinearLayout>

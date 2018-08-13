@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#986c6a</color>
+    <color name="colorPrimaryDark">#784f41</color>
+    <color name="colorAccent">#bbe5ed</color>
+
+    <color name="category_departments">#aeabb9</color>
+    <color name="category_dining">#b399a2</color>
+    <color name="category_parks">#986c6a</color>
+    <color name="category_schools">#784f41</color>
+
+    <color name="background">#bbe5ed</color>
+</resources>

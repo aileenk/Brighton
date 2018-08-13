@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Brighton</string>
+
+    <!-- Category Names -->
+    <string name="town_departments">Public Safety</string>
+    <string name="dining_and_shopping">Dining &amp; Shopping</string>
+    <string name="parks">Parks</string>
+    <string name="schools">Schools</string>
+
+    <!-- Public Safety Location Info -->
+
+    <!-- Dining and Shopping Location Info -->
+    <string name="wegmans">Wegmans</string>
+
+    <!-- Park Location Info -->
+
+    <!-- School Location Info -->
+</resources>
